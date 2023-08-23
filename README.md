@@ -20,13 +20,27 @@ Here's a walkthrough of implemented user stories:
 <img src='ios101-prework/Assets.xcassets/Simulator Screen Recording - iPhone 14 Pro - 2023-08-23 at 16.50.26.dataset/Simulator Screen Recording - iPhone 14 Pro - 2023-08-23 at 16.50.26.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://cloudconvert.com/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Instagram
+- DMs
+- Feed
+- colors
+
+Tiktok
+- Aesthetic
+- following and for you tabs
+- DMs
+
+Snapchat
+- Stories
+- Picture snaps
+- screenshot notifs
 
 ## Notes
 
@@ -34,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Henry Ingraham
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
