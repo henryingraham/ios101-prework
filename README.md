@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/henryingraham/ios101-prework/blob/main/ios101-prework/Assets.xcassets/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202023-08-23%20at%2016.50.26.dataset/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202023-08-23%20at%2016.50.26.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
